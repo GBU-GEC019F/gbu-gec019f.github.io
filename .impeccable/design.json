@@ -1,0 +1,326 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-10T09:04:07.577Z",
+  "title": "Design System: GBU GEC019F Course Exhibition",
+  "extensions": {
+    "colorMeta": {
+      "paper": {
+        "role": "neutral",
+        "displayName": "Warm Paper",
+        "tonalRamp": [
+          "oklch(15.00% 0.01108 89.72)",
+          "oklch(26.43% 0.01108 89.72)",
+          "oklch(37.86% 0.01108 89.72)",
+          "oklch(49.29% 0.01108 89.72)",
+          "oklch(60.71% 0.01108 89.72)",
+          "oklch(72.14% 0.01108 89.72)",
+          "oklch(83.57% 0.01108 89.72)",
+          "oklch(95.00% 0.01108 89.72)"
+        ]
+      },
+      "ink": {
+        "role": "neutral",
+        "displayName": "Green-black Ink",
+        "tonalRamp": [
+          "oklch(15.00% 0.01565 152.88)",
+          "oklch(26.43% 0.01565 152.88)",
+          "oklch(37.86% 0.01565 152.88)",
+          "oklch(49.29% 0.01565 152.88)",
+          "oklch(60.71% 0.01565 152.88)",
+          "oklch(72.14% 0.01565 152.88)",
+          "oklch(83.57% 0.01565 152.88)",
+          "oklch(95.00% 0.01565 152.88)"
+        ]
+      },
+      "muted": {
+        "role": "neutral",
+        "displayName": "Muted Green-gray",
+        "tonalRamp": [
+          "oklch(15.00% 0.02134 135.05)",
+          "oklch(26.43% 0.02134 135.05)",
+          "oklch(37.86% 0.02134 135.05)",
+          "oklch(49.29% 0.02134 135.05)",
+          "oklch(60.71% 0.02134 135.05)",
+          "oklch(72.14% 0.02134 135.05)",
+          "oklch(83.57% 0.02134 135.05)",
+          "oklch(95.00% 0.02134 135.05)"
+        ]
+      },
+      "line": {
+        "role": "neutral",
+        "displayName": "Collection Rule",
+        "tonalRamp": [
+          "oklch(15.00% 0.01932 116.64)",
+          "oklch(26.43% 0.01932 116.64)",
+          "oklch(37.86% 0.01932 116.64)",
+          "oklch(49.29% 0.01932 116.64)",
+          "oklch(60.71% 0.01932 116.64)",
+          "oklch(72.14% 0.01932 116.64)",
+          "oklch(83.57% 0.01932 116.64)",
+          "oklch(95.00% 0.01932 116.64)"
+        ]
+      },
+      "accent": {
+        "role": "primary",
+        "displayName": "Brick Red",
+        "tonalRamp": [
+          "oklch(15.00% 0.13645 34.06)",
+          "oklch(26.43% 0.13645 34.06)",
+          "oklch(37.86% 0.13645 34.06)",
+          "oklch(49.29% 0.13645 34.06)",
+          "oklch(60.71% 0.13645 34.06)",
+          "oklch(72.14% 0.13645 34.06)",
+          "oklch(83.57% 0.13645 34.06)",
+          "oklch(95.00% 0.13645 34.06)"
+        ]
+      },
+      "olive": {
+        "role": "secondary",
+        "displayName": "Deep Olive",
+        "tonalRamp": [
+          "oklch(15.00% 0.03518 159.82)",
+          "oklch(26.43% 0.03518 159.82)",
+          "oklch(37.86% 0.03518 159.82)",
+          "oklch(49.29% 0.03518 159.82)",
+          "oklch(60.71% 0.03518 159.82)",
+          "oklch(72.14% 0.03518 159.82)",
+          "oklch(83.57% 0.03518 159.82)",
+          "oklch(95.00% 0.03518 159.82)"
+        ]
+      },
+      "folio-highlight": {
+        "role": "secondary",
+        "displayName": "Pale Olive",
+        "tonalRamp": [
+          "oklch(15.00% 0.05743 114.05)",
+          "oklch(26.43% 0.05743 114.05)",
+          "oklch(37.86% 0.05743 114.05)",
+          "oklch(49.29% 0.05743 114.05)",
+          "oklch(60.71% 0.05743 114.05)",
+          "oklch(72.14% 0.05743 114.05)",
+          "oklch(83.57% 0.05743 114.05)",
+          "oklch(95.00% 0.05743 114.05)"
+        ]
+      },
+      "folio-copy": {
+        "role": "secondary",
+        "displayName": "Folio Copy",
+        "tonalRamp": [
+          "oklch(15.00% 0.02194 130.03)",
+          "oklch(26.43% 0.02194 130.03)",
+          "oklch(37.86% 0.02194 130.03)",
+          "oklch(49.29% 0.02194 130.03)",
+          "oklch(60.71% 0.02194 130.03)",
+          "oklch(72.14% 0.02194 130.03)",
+          "oklch(83.57% 0.02194 130.03)",
+          "oklch(95.00% 0.02194 130.03)"
+        ]
+      },
+      "folio-border": {
+        "role": "secondary",
+        "displayName": "Folio Border",
+        "tonalRamp": [
+          "oklch(15.00% 0.04318 128.44)",
+          "oklch(26.43% 0.04318 128.44)",
+          "oklch(37.86% 0.04318 128.44)",
+          "oklch(49.29% 0.04318 128.44)",
+          "oklch(60.71% 0.04318 128.44)",
+          "oklch(72.14% 0.04318 128.44)",
+          "oklch(83.57% 0.04318 128.44)",
+          "oklch(95.00% 0.04318 128.44)"
+        ]
+      },
+      "folio-link": {
+        "role": "secondary",
+        "displayName": "Folio Link",
+        "tonalRamp": [
+          "oklch(15.00% 0.03617 115.63)",
+          "oklch(26.43% 0.03617 115.63)",
+          "oklch(37.86% 0.03617 115.63)",
+          "oklch(49.29% 0.03617 115.63)",
+          "oklch(60.71% 0.03617 115.63)",
+          "oklch(72.14% 0.03617 115.63)",
+          "oklch(83.57% 0.03617 115.63)",
+          "oklch(95.00% 0.03617 115.63)"
+        ]
+      },
+      "folio-divider": {
+        "role": "secondary",
+        "displayName": "Folio Divider",
+        "tonalRamp": [
+          "oklch(15.00% 0.03484 140.69)",
+          "oklch(26.43% 0.03484 140.69)",
+          "oklch(37.86% 0.03484 140.69)",
+          "oklch(49.29% 0.03484 140.69)",
+          "oklch(60.71% 0.03484 140.69)",
+          "oklch(72.14% 0.03484 140.69)",
+          "oklch(83.57% 0.03484 140.69)",
+          "oklch(95.00% 0.03484 140.69)"
+        ]
+      },
+      "selection": {
+        "role": "neutral",
+        "displayName": "Warm Selection",
+        "tonalRamp": [
+          "oklch(15.00% 0.05326 43.70)",
+          "oklch(26.43% 0.05326 43.70)",
+          "oklch(37.86% 0.05326 43.70)",
+          "oklch(49.29% 0.05326 43.70)",
+          "oklch(60.71% 0.05326 43.70)",
+          "oklch(72.14% 0.05326 43.70)",
+          "oklch(83.57% 0.05326 43.70)",
+          "oklch(95.00% 0.05326 43.70)"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Course Display",
+        "purpose": "Editorial course title; responsive sizes remain in DESIGN.md."
+      },
+      "headline": {
+        "displayName": "Section Headline",
+        "purpose": "Ruled section headings."
+      },
+      "title": {
+        "displayName": "Empty-state Title",
+        "purpose": "Honest collection states; prepared record names use documented variants."
+      },
+      "body": {
+        "displayName": "System Body",
+        "purpose": "Readable instructions and explanatory text."
+      },
+      "label": {
+        "displayName": "Interface Label",
+        "purpose": "Search label and compact interface text."
+      }
+    },
+    "shadows": [],
+    "motion": [
+      {
+        "name": "anchor-scroll",
+        "value": "smooth",
+        "purpose": "Native anchor navigation; immediate scrolling with prefers-reduced-motion: reduce."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "wide",
+        "value": "1600px",
+        "purpose": "Minimum width; course title is 78px."
+      },
+      {
+        "name": "tablet",
+        "value": "1000px",
+        "purpose": "Maximum width; narrower gutters and columns."
+      },
+      {
+        "name": "mobile",
+        "value": "650px",
+        "purpose": "Maximum width; stacked sections and wrapping controls."
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Main Navigation",
+      "kind": "nav",
+      "description": "Visible text navigation with publication arrow; compact mobile spacing.",
+      "html": "<nav class=\"ds-sample ds-nav\" aria-label=\"Example navigation\"><a href=\"#projects\">Projects</a><a href=\"#portfolios\">Portfolios</a><a href=\"#publish\">Publish your work <svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></a></nav>",
+      "css": ".ds-nav{display:flex;gap:32px;align-items:center;color:var(--ink,#232b25);font:550 14px/1.65 system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",sans-serif}.ds-nav a{color:inherit;text-decoration:none}.ds-nav a:hover{color:var(--accent,#a13e28)}.ds-nav a:last-child{display:flex;align-items:center;gap:12px}.ds-nav svg{width:20px;height:20px;fill:none;stroke:currentColor;stroke-width:1.6}@media(max-width:650px){.ds-nav{gap:22px;justify-content:space-between;font-size:12px}.ds-nav svg{width:16px}.ds-nav a:last-child{gap:6px}}.ds-sample :focus-visible,.ds-sample:focus-visible{outline:3px solid var(--accent,#a13e28);outline-offset:5px}"
+    },
+    {
+      "name": "Search Field",
+      "kind": "input",
+      "refersTo": "search",
+      "description": "Labeled underlined field; production remains disabled until data loads.",
+      "html": "<div class=\"ds-sample ds-search\"><label for=\"ds-search-input\">Find a project</label><div><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><circle cx=\"10\" cy=\"10\" r=\"6\"/><path d=\"m15 15 5 5\"/></svg><input id=\"ds-search-input\" type=\"search\" placeholder=\"Search titles, ideas, or tags\" autocomplete=\"off\"></div></div>",
+      "css": ".ds-search{color:var(--ink,#232b25);font:14px/1.65 system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",sans-serif;max-width:100%}.ds-search label{display:block;font-size:12px;font-weight:600;margin-bottom:5px}.ds-search>div{display:flex;align-items:center;border-bottom:1px solid var(--muted,#586054);gap:9px}.ds-search svg{width:20px;height:20px;fill:none;stroke:currentColor;stroke-width:1.6;flex-shrink:0}.ds-search input{font:inherit;width:100%;min-width:0;appearance:none;background:transparent;border:0;padding:9px 0;color:var(--ink,#232b25);caret-color:var(--accent,#a13e28)}.ds-search input::placeholder{color:var(--muted,#586054)}.ds-sample :focus-visible,.ds-sample:focus-visible{outline:3px solid var(--accent,#a13e28);outline-offset:5px}"
+    },
+    {
+      "name": "Group Filter",
+      "kind": "chip",
+      "refersTo": "filter",
+      "description": "Unselected group control; production toggles aria-pressed with JavaScript.",
+      "html": "<button type=\"button\" class=\"ds-sample ds-filter\" aria-pressed=\"false\">G01</button>",
+      "css": ".ds-filter{font:12px/1.65 system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",sans-serif;background:transparent;color:var(--muted,#586054);border:1px solid transparent;border-radius:3px;padding:7px 10px;font-variant-numeric:tabular-nums;cursor:pointer}.ds-filter:hover{border-color:var(--line,#cccfc1);color:var(--ink,#232b25)}.ds-filter[aria-pressed=true]{background:var(--ink,#232b25);color:var(--paper,#f6f3eb)}@media(max-width:650px){.ds-filter{padding:7px 9px}}.ds-sample :focus-visible,.ds-sample:focus-visible{outline:3px solid var(--accent,#a13e28);outline-offset:5px}"
+    },
+    {
+      "name": "Selected Group Filter",
+      "kind": "chip",
+      "refersTo": "filter-selected",
+      "description": "Ink-filled selected state; All groups is the initial production selection.",
+      "html": "<button type=\"button\" class=\"ds-sample ds-selected\" aria-pressed=\"true\">All groups</button>",
+      "css": ".ds-selected{font:12px/1.65 system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",sans-serif;background:var(--ink,#232b25);color:var(--paper,#f6f3eb);border:1px solid transparent;border-radius:3px;padding:7px 10px;font-variant-numeric:tabular-nums;cursor:pointer}.ds-selected:hover{border-color:var(--line,#cccfc1)}@media(max-width:650px){.ds-selected{padding:7px 9px}}.ds-sample :focus-visible,.ds-sample:focus-visible{outline:3px solid var(--accent,#a13e28);outline-offset:5px}"
+    },
+    {
+      "name": "Introductory Text Action",
+      "kind": "custom",
+      "refersTo": "text-link",
+      "description": "Inline arrow and fine accent rule connect the introduction to student work.",
+      "html": "<a class=\"ds-sample ds-text-action\" href=\"#projects\">Explore student work <svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M12 5v14M6 13l6 6 6-6\"/></svg></a>",
+      "css": ".ds-text-action{display:inline-flex;gap:12px;align-items:center;font:600 14px/1.65 system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",sans-serif;color:var(--accent,#a13e28);text-decoration:none;border-bottom:1px solid var(--accent,#a13e28);padding-bottom:6px}.ds-text-action:hover{color:var(--accent,#a13e28)}.ds-text-action svg{width:20px;height:20px;fill:none;stroke:currentColor;stroke-width:1.6}.ds-sample :focus-visible,.ds-sample:focus-visible{outline:3px solid var(--accent,#a13e28);outline-offset:5px}"
+    },
+    {
+      "name": "Folio Outline Action",
+      "kind": "button",
+      "refersTo": "folio-button",
+      "description": "Outlined publication link shown on its native deep olive surface.",
+      "html": "<div class=\"ds-folio\"><a class=\"ds-sample ds-folio-button\" href=\"#contribution-guide\">Read the contribution guide <svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></a></div>",
+      "css": ".ds-folio{background:var(--olive,#253b2f);padding:24px}.ds-folio-button{display:inline-flex;align-items:center;justify-content:space-between;gap:24px;padding:13px 18px;font:550 13px/1.65 system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",sans-serif;text-decoration:none;border:1px solid var(--folio-border,#abb99c);border-radius:3px;color:var(--paper,#f6f3eb);background:transparent}.ds-folio-button:hover{background:var(--paper,#f6f3eb);color:var(--olive,#253b2f)}.ds-folio-button:focus-visible{outline:3px solid var(--folio-link,#e4e9ce);outline-offset:5px}.ds-folio-button svg{width:20px;height:20px;fill:none;stroke:currentColor;stroke-width:1.6}"
+    },
+    {
+      "name": "Honest Empty Collection",
+      "kind": "custom",
+      "description": "Ruled two-column empty state becomes stacked on mobile.",
+      "html": "<div class=\"ds-sample ds-empty\"><h3>The next idea belongs here.</h3><div><p>No projects have been published yet. When the teaching team reviews your listing, your work will appear here with links to its source and submission version.</p><a href=\"#publish\">Be part of the collection</a></div></div>",
+      "css": ".ds-empty{display:grid;grid-template-columns:1fr 1.15fr;gap:50px;padding:50px 0 54px;border-bottom:1px solid var(--line,#cccfc1);color:var(--ink,#232b25);font:14px/1.65 system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",sans-serif}.ds-empty h3{font-family:Newsreader,Georgia,serif;font-size:35px;line-height:1.15;font-weight:450;max-width:20ch;margin:0}.ds-empty p{color:var(--muted,#586054);max-width:52ch;margin:0 0 16px}.ds-empty a{font-size:14px;font-weight:550;color:var(--accent,#a13e28);text-underline-offset:.24em}.ds-empty a:hover{color:var(--accent,#a13e28)}@media(max-width:650px){.ds-empty{grid-template-columns:1fr;gap:17px;padding:29px 0 36px}.ds-empty h3{font-size:31px}.ds-empty p{font-size:13px}}.ds-sample :focus-visible,.ds-sample:focus-visible{outline:3px solid var(--accent,#a13e28);outline-offset:5px}"
+    },
+    {
+      "name": "Retry Button",
+      "kind": "button",
+      "refersTo": "retry-button",
+      "description": "Native button offers another load attempt after a catalog failure.",
+      "html": "<button class=\"ds-sample ds-retry\" type=\"button\">Try again</button>",
+      "css": ".ds-retry{font:16px/1.65 system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",sans-serif;color:var(--ink,#232b25);margin-top:15px;border:1px solid var(--ink,#232b25);padding:8px 16px;border-radius:3px;background:transparent;cursor:pointer}.ds-sample :focus-visible,.ds-sample:focus-visible{outline:3px solid var(--accent,#a13e28);outline-offset:5px}"
+    }
+  ],
+  "narrative": {
+    "northStar": "Course exhibition",
+    "overview": "A quiet university exhibition catalog: warm paper, generous serif headlines, thin rules and useful links make student work the focus. The deep olive publication folio closes the page with practical guidance. Identity is typographic; no university logo is invented.\n\nThis records the implementation in `index.html`, `styles.css` and `app.js`, with font provenance in `assets/fonts/README.md`. It describes the built system rather than the preliminary composition brief. Publication remains subject to instructor or TA review; empty collections are an intentional supported state.",
+    "keyCharacteristics": [
+      "Warm paper and ink with restrained brick-red actions.",
+      "Editorial serif headings paired with system sans interface text.",
+      "Flat, ruled collections and a deep olive publication folio.",
+      "Honest empty states with clear next actions."
+    ],
+    "rules": [
+      {
+        "name": "The Action Accent Rule",
+        "body": "Use brick red for actionable links and existing textual emphasis; preserve the olive folio's pale link and focus treatment.",
+        "section": "colors"
+      },
+      {
+        "name": "The Two Voices Rule",
+        "body": "Use Newsreader for editorial headings and names, and system sans for navigation, instructions, metadata and controls.",
+        "section": "typography"
+      },
+      {
+        "name": "The Ruled Surface Rule",
+        "body": "Separate collection content with thin rules and spacing; preserve the flat surface treatment.",
+        "section": "elevation"
+      }
+    ],
+    "dos": [
+      "Do retain paper, ink and brick-red hierarchy with the dark olive folio.",
+      "Do keep visible keyboard focus and the reduced-motion alternative.",
+      "Do preserve wrapping filters, stacked mobile collections and authored footer line breaks.",
+      "Do show honest empty, loading and unavailable states with useful actions."
+    ],
+    "donts": [
+      "Don't invent a university logo or fabricate published work to fill the gallery.",
+      "Don't replace the supplied serif headings with a system display face.",
+      "Don't imply extra Newsreader weights are bundled with the static font."
+    ]
+  }
+}
