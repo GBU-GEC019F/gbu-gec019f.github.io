@@ -1,0 +1,10 @@
+{
+  "id": "g01-p01-project-name",
+  "group": "G01",
+  "title": "Replace with your project title",
+  "summary": "Replace with a short description of what you built and what visitors can try.",
+  "repository": "https://github.com/GBU-GEC019F/REPLACE-WITH-REPO-NAME",
+  "demo": "",
+  "submission": "https://github.com/GBU-GEC019F/REPLACE-WITH-REPO-NAME/commit/REPLACE-WITH-FULL-40-CHARACTER-COMMIT-SHA",
+  "tags": []
+}
